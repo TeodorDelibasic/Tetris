@@ -1,6 +1,6 @@
 # Tetris
 
-Implementation of the Tetris video game with speed scrollbar and highscore tracker among other functionalities
+Implementation of the classic Tetris video game with speed scrollbar and highscore tracker among other functionalities
 
 ![Preview](Tetris.png)
  
