@@ -1,2 +1,2 @@
 # Tetris
-Implementation of the popular game Tetris
+Implementation of the Tetris video game
